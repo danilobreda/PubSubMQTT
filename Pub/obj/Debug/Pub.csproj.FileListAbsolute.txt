@@ -1,0 +1,8 @@
+C:\Users\Laboratorio\Desktop\PubSub\Pub\bin\Debug\Pub.exe.config
+C:\Users\Laboratorio\Desktop\PubSub\Pub\bin\Debug\Pub.exe
+C:\Users\Laboratorio\Desktop\PubSub\Pub\bin\Debug\Pub.pdb
+C:\Users\Laboratorio\Desktop\PubSub\Pub\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Laboratorio\Desktop\PubSub\Pub\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Laboratorio\Desktop\PubSub\Pub\obj\Debug\Pub.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\PubSub\Pub\obj\Debug\Pub.exe
+C:\Users\Laboratorio\Desktop\PubSub\Pub\obj\Debug\Pub.pdb
